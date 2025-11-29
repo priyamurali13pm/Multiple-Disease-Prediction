@@ -1,5 +1,5 @@
-🩺🩺 Multi-Disease Prediction App
-AI-based Prediction System for Kidney, Liver & Parkinson’s Diseases
+🌟 🩺 MULTI-DISEASE PREDICTION SYSTEM
+Early Detection Powered by Machine Learning & Streamlit
 
 📘 Description
 
